@@ -7,7 +7,8 @@ It easy and interesting project to work with.
 You can add this Theme changer project any of your project which you want to change the theme of application to the Dark or Light when you want turn it Have to just tap the Switch Buttom 
 
 
-![Screenshot_1662987836](https://user-images.githubusercontent.com/55742347/189666679-ec706093-ae1b-46d8-a695-2a2d122d474a.png) ![Screenshot_1662987831](https://user-images.githubusercontent.com/55742347/189666735-8af35829-e8e2-471d-8abe-84e9fff3f22e.png)
+![Screenshot_1662987831](https://user-images.githubusercontent.com/55742347/189667461-a9604d78-d857-45e4-9152-fe7ede9d7351.png)
+
 
 
 
